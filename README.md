@@ -7,3 +7,6 @@ Skills I am learning:
 - GitHub basics
 - How to save projects
 - How to learn coding step by step
+  ## Files in this project
+- hello.py : My first Python program
+
